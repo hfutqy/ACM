@@ -6,4 +6,4 @@ public class Main
      int a = in.nextInt(), b= in.nextInt();
     System.out.println(a+b);
      }
-}        
+}       
