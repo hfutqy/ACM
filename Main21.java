@@ -57,4 +57,4 @@ int main()
             printf("%d\n",step);
         }
     }
-}        
+}       
