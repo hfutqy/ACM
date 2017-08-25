@@ -1,3 +1,3 @@
 # ACM
-南洋理工学院ACMICPC <br>
+南洋理工学院ACMICPC 
 http://acm.nyist.net/
