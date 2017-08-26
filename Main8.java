@@ -28,4 +28,4 @@ for(i=0;i<n;i++)
  printf("%d %d %d\n",data[i].xh,data[i].c,data[i].k); } 
 } 
 return 0; 
-}        
+}       
